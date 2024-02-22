@@ -1,2 +1,2 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
-*.zbr filter=lfs diff=lfs merge=lfs -text
+*.zpr filter=lfs diff=lfs merge=lfs -text
